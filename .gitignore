@@ -1,0 +1,8 @@
+# ignoring virtual environment
+venv/
+
+# ignoring .env file
+amazonspider/amazonspider/.env
+
+#ignoring the searchItem.json file
+amazonspider/amazonspider/searchItem.json
