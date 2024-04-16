@@ -5,4 +5,4 @@ venv/
 amazonspider/amazonspider/.env
 
 #ignoring the searchItem.json file
-amazonspider/amazonspider/searchItem.json
+# amazonspider/amazonspider/searchItem.json
